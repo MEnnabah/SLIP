@@ -1,6 +1,6 @@
 # SLIP
 
-SLIP is a lightweight package for the SLIP packets, as documented in (RFC 1055)[https://datatracker.ietf.org/doc/html/rfc1055.html]. It defines encoding and decoding and handles double-ended SLIP encoded packets.
+SLIP is a lightweight package for the SLIP packets, as documented in [RFC 1055](https://datatracker.ietf.org/doc/html/rfc1055.html). It defines encoding and decoding and handles double-ended SLIP encoded packets.
 
 ## Installation
 SLIP is available as a Swift Package Manager package. You can add it to your project from Xcode's "Swift Packages" option in the File menu.
